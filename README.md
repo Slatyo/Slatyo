@@ -49,5 +49,4 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GoogleChrome](https://img.shields.io/badge/-Google%20Chrome-%234285F4?style=for-the-badge&logo=google%20chrome&logoColor=ffffff)
-![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff)
 

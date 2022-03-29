@@ -421,7 +421,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>php-vcr/php-vcr</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.</div>
@@ -720,7 +720,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 2.89m out of 88m users</span>
+                                    <span class="gh">ranked 2.90m out of 88m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">14</div>
                                     </div>
@@ -1174,7 +1174,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Mar 2022, 20:02:32 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 29 Mar 2022, 21:02:16 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

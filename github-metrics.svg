@@ -312,7 +312,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>getsentry/self-hosted</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept</div>
@@ -1127,7 +1127,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Apr 2023, 05:02:37 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 Apr 2023, 06:02:58 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

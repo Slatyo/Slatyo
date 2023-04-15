@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Slatyo&theme=tokyonight&date_format=%5BY.%5Dn.j" />
 </p>
-<p align="center">
+<!-- p align="center">
   <img align="center" src="/github-metrics.svg" alt="Metrics" width="500" />
-</p>
+</p> -->
 
 ### Techstack
 

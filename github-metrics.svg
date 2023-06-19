@@ -312,7 +312,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>marcreichel/angular-carousel</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple and lightweight Angular (12+) Carousel Component.</div>
@@ -365,7 +365,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>marcreichel/apple-tv-card</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An Apple TV Card/Widget with hover animation written in JavaScript and CSS.</div>
@@ -1122,7 +1122,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Jun 2023, 13:02:50 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 19 Jun 2023, 14:02:54 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

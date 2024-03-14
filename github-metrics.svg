@@ -340,7 +340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ValveSoftware/GameNetworkingSockets</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Reliable &amp; unreliable messages over UDP.  Robust message fragmentation &amp; reassembly.  P2P networking / NAT traversal.  Encryption.</div>
@@ -393,7 +393,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>benny-n/netcode</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust implementation of the netcode protocol</div>
@@ -446,7 +446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mas-bandwidth/yojimbo</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A network library for client/server games written in C++</div>
@@ -1193,7 +1193,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Mar 2024, 04:02:29 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Mar 2024, 05:02:22 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
